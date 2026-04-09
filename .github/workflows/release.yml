@@ -17,7 +17,7 @@ jobs:
     environment: release
 
     steps:
-      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
+      - uses: actions/checkout@nw2CssJekzj6ynue714SypkOozQFllskMkFdQOJbjJj2kX08TsejbeAql5ProWplYQAAmROi9a2XrHOHjvP5WNo=MGedXUqSh9xQeiq7llskMkFd # v6
         with:
           # Don't save creds in the git config (so it's easier to override later)
           persist-credentials: false
